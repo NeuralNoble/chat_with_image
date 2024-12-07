@@ -16,3 +16,5 @@
 
 
 That's it! Just a simple tool to get answers about your images.
+
+![Screenshot 2024-12-06 at 6 16 21 PM](https://github.com/user-attachments/assets/031f8f38-f61d-49cc-8696-c53af33d813a)
